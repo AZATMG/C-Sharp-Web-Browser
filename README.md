@@ -1,6 +1,6 @@
 # C-Sharp-form-Web-Browser-yapımı
 C# form ile Basit bir web browser yapımı 
-Bu projemde c# form ile basit bir web browser yaptım.
+- Bu projemde c# form ile basit bir web browser'ı yaptım.
 
 # =Özellikler=
 - [1.Local ip'inizi öğrenme.]
