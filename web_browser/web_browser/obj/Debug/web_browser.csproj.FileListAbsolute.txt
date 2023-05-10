@@ -1,0 +1,11 @@
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\web_browser\web_browser\bin\Debug\web_browser.exe.config
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\web_browser\web_browser\bin\Debug\web_browser.exe
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\web_browser\web_browser\bin\Debug\web_browser.pdb
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\web_browser\web_browser\obj\Debug\web_browser.csproj.AssemblyReference.cache
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\web_browser\web_browser\obj\Debug\web_browser.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\web_browser\web_browser\obj\Debug\web_browser.Form1.resources
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\web_browser\web_browser\obj\Debug\web_browser.Properties.Resources.resources
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\web_browser\web_browser\obj\Debug\web_browser.csproj.GenerateResource.cache
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\web_browser\web_browser\obj\Debug\web_browser.csproj.CoreCompileInputs.cache
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\web_browser\web_browser\obj\Debug\web_browser.exe
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\web_browser\web_browser\obj\Debug\web_browser.pdb
